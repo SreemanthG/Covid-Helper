@@ -10,8 +10,12 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"node app.js"
   },
-  "author": "Pranav",
-  "license": "ISC"
+  "author": "Sreemanth",
+  "license": "ISC",
+  "engines": {
+    "node": "v12.16.1",
+    "npm":"6.13.4"
+  }
 }
