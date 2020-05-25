@@ -14,8 +14,8 @@ node app.js
 <h4>Landing Page</h4>
 <img src="https://github.com/SreemanthG/Covid-Helper/blob/master/public/img/mock1.png">
 <h4>Prediction Form</h4>
-<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/public/img/mock1.png">
+<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/public/img/mock2.png">
 <h4>Results</h4>
-<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/public/img/mock1.png">
+<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/public/img/mock3.png">
 <h4>Hosipital Bed tracker</h4>
-<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/public/img/mock1.png">
+<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/public/img/mock4.png">
