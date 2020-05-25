@@ -12,10 +12,10 @@ node app.js
 <h1>Implementation</h1>
 
 <h4>Landing Page</h4>
-<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/mock1.png">
+<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/public/img/mock1.png">
 <h4>Prediction Form</h4>
-<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/mock2.png">
+<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/public/img/mock1.png">
 <h4>Results</h4>
-<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/mock3.png">
+<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/public/img/mock1.png">
 <h4>Hosipital Bed tracker</h4>
-<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/mock4.png">
+<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/public/img/mock1.png">
