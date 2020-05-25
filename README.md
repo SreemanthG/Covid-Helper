@@ -10,3 +10,7 @@ node app.js
 <a href="https://covid-helper.herokuapp.com/">link</a>
 
 <h1>Implementation</h1>
+<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/mock1.png">
+<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/mock2.png">
+<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/mock3.png">
+<img src="https://github.com/SreemanthG/Covid-Helper/blob/master/mock4.png">
