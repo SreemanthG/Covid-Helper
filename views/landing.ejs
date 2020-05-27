@@ -12,6 +12,8 @@
 
   <!-- Bootstrap core CSS -->
   <link href="/stylesheets/bootstrap.min.css" rel="stylesheet">
+  <link href="/stylesheets/main.css" rel="stylesheet">
+
 
   <!-- Custom fonts for this template -->
   <!-- ==========================================================================================================================================================================================================================================o====4 -->
@@ -83,6 +85,12 @@
     </div>
   </header>
 
+  <div class="chatbox">
+    <a href="https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=f56d3e31-601d-4c2f-905b-6eb897a45d55&serviceInstanceID=4dac2149-2ce5-4cbe-ae58-80f4f558acad" class="btn btn-primary pl-5 pr-5 pt-3 pb-3">Watson Chat Bot</a>
+    <div class="chat">
+
+    </div>
+  </div>
 
   <footer>
     <div class="container">
@@ -100,7 +108,11 @@
       </ul>
     </div>
   </footer>
+<div class="pt-5">
+  <div id="content" class="chatbot">
 
+  </div>
+</div>
   <!-- Bootstrap core JavaScript -->
   <script src="/stylesheets/jquery.min.js"></script>
   <script src="/stylesheets/bootstrap.bundle.min.js"></script>
@@ -110,7 +122,14 @@
 
   <!-- Custom scripts for this template -->
   <script src="/stylesheets/new-age.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script> 
+// $(document).ready(function(){
 
+//   $('#content')
+//   .html('<object width="900" height="900" data="http://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=f56d3e31-601d-4c2f-905b-6eb897a45d55&serviceInstanceID=4dac2149-2ce5-4cbe-ae58-80f4f558acad"/>');
+// });
+//   </script>
 </body>
 
 </html>
