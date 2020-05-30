@@ -8,7 +8,8 @@ node app.js
 <br>
 <h1>Deployed at</h1>
 <a href="https://covid-helper.herokuapp.com/">link</a>
-
+<h1>API</h1>
+<a href="https://github.com/SreemanthG/Mortality-and-Risk-Checker-for-Covid19-API/">https://github.com/SreemanthG/Mortality-and-Risk-Checker-for-Covid19-API/</a>
 <h1>Implementation</h1>
 
 <h4>Landing Page</h4>
