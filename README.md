@@ -20,3 +20,9 @@ node app.js
 <img src="https://github.com/SreemanthG/Covid-Helper/blob/master/public/img/mock3.png">
 <h4>Hosipital Bed tracker</h4>
 <img src="https://github.com/SreemanthG/Covid-Helper/blob/master/public/img/mock4.png">
+
+# Developed By
+Sreemanth G
+Devang M
+Pranav V A
+Roshan John
